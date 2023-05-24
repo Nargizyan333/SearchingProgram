@@ -1,3 +1,0 @@
-/Users/nargizyan/Desktop/SearchingProgram/cmake-build-debug/CMakeFiles/SearchingProgram.dir
-/Users/nargizyan/Desktop/SearchingProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/nargizyan/Desktop/SearchingProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
